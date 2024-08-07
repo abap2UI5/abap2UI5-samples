@@ -1,6 +1,6 @@
 ## Code Samples of abap2UI5 <img src="https://github.com/abap2UI5/abap2UI5/assets/102328295/52ac0bb6-a219-4e9d-9e4f-62698dab3063" width="30">
 
-* Learn how to code with abap2UI5. Just install this repository and try out various samples for any use case, such as tables, lists, trees, and many other UI5 controls. Quickly copy and paste the needed code into your own app to accelerate your development process and soon become an abap2UI5 expert!* 🤓 <br>
+Learn how to code with abap2UI5. Try out various samples for any use case, such as tables, lists, trees, and many other UI5 controls. Quickly copy and paste the needed code into your own app to accelerate your development process and soon become an abap2UI5 expert!* 🤓 <br>
 
 **_Running into problems or found a bug? Create an issue [here](https://github.com/abap2UI5/abap2UI5/issues)_**<br>
 
